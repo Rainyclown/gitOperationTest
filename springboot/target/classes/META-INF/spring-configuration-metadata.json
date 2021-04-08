@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "r",
+      "type": "com.springboot.demo.config.RConfig",
+      "sourceType": "com.springboot.demo.config.RConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "r.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.springboot.demo.config.RConfig"
+    },
+    {
+      "name": "r.language",
+      "type": "java.lang.String",
+      "sourceType": "com.springboot.demo.config.RConfig"
+    },
+    {
+      "name": "r.sex",
+      "type": "java.lang.String",
+      "sourceType": "com.springboot.demo.config.RConfig"
+    }
+  ],
+  "hints": []
+}
