@@ -19,5 +19,6 @@ public class ConfigTest {
     public ConfigResponseVo getConfig(){
         log.info("Response "+rConfig);
         return new ConfigResponseVo(rConfig.getSex(),rConfig.getAge(),rConfig.getLanguage());
+        //test line
     }
 }
