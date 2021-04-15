@@ -11,4 +11,5 @@ public class ConfigResponseVo {
     private String sex;
     private Integer age;
     private String language;
+    private String h;
 }
